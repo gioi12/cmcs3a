@@ -1,0 +1,5 @@
+table-config: {}
+annotation-format: csv
+plugin-config: {}
+startup:
+  image: photo_6253372993594048166_y.jpg

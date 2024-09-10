@@ -1,0 +1,29 @@
+# images: []
+# annotations: []
+
+
+annotation-format: "csv"
+
+plugin-config: {
+  
+}
+
+startup: {}
+
+# table-config:
+#   fields:
+#     Name:
+#       pType: input 
+#       value: ''     
+
+table-config:
+  fields:
+    Validated:
+      pType: boolean
+      value: True
+    Designator:
+      pType: input
+      value: ''
+    Notes:
+      pType: input
+      value: ''
